@@ -1,1 +1,5 @@
 # stat_online_notes
+
+Linear mixed models introduction:  
+https://stats.oarc.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/  
+
